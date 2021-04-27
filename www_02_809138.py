@@ -1,4 +1,5 @@
 #!/usr/bin/env python3
+# This script has to be executed in a terminal, no arguments are given directly, but written in the CLI during execution of the script, you'll be asked for it!
 print("Type message to start encoding:")
 user_input =input() #getting message that shall be encoded
 enc_mes = ""
